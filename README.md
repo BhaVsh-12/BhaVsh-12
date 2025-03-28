@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavsh-12&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsh-12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavsh-12" alt="bhavsh-12" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavsh-12" alt="bhavsh-12" /></a> </p>-->
+![](https://github-profile-trophy.vercel.app/?username=Prathamesh-Kothalkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
